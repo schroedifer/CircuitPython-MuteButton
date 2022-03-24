@@ -9,7 +9,7 @@ There's two ways that this program can be setup:
 1.  Application hot-key pusher
 2.  System level microphone toggle
 
-The project originally started as just a way to select a specific chat application, and push it's microphone hotkey, but evolved to instead utilize a system level control over the microphone.  
+The project originally started as just a way to select a specific chat application, and push its specific microphone hotkey, but evolved to instead utilize a system level control over the microphone.  
 
 ## Compatibility
 
