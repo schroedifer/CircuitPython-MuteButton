@@ -93,4 +93,6 @@ In `config.py` you can select which type of OS the NeoKey is plugged into, what 
 
 In `profiles.py` you can change the hotkeys (system or specific chat application), modify the active/mute colors, or add new profiles.  
 
+### Load the program onto the NeoKey
 
+Drag and drop `code.py`, `config.py` and `profiles.py` onto the `CIRCUITPY` drive.  The program should automatically start running and display the profile color listed in `config.py`.  
